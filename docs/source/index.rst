@@ -46,4 +46,9 @@ Training Programs:
    bct/weapon_qualification
    bct/basic_communications
    bct/apendix_a_guide_to_getting_started
-   bct/apendix_b_instructor_manual
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Instructor Handbooks
+
+  bct/apendix_b_instructor_manual
