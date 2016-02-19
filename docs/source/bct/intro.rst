@@ -19,3 +19,5 @@ Before attending your BCT class please ensure:
 * That you have downloaded and installed our modpack
 
 * That your teamspeak name is correctly formatted and you have displayed your CAC card
+
+* **You have read fully the training materials provided**
