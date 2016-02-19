@@ -36,7 +36,7 @@ Training Programs:
 =================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Basic Combat Training
 
    bct/intro
@@ -48,7 +48,28 @@ Training Programs:
    bct/apendix_a_guide_to_getting_started
 
 .. toctree::
-  :maxdepth: 2
+    :maxdepth: 1
+    :caption: AIT 1 - 11 Series ( Infantry Forces )
+
+    ait_11/intro
+    ait_11/infantry_of_the_rrf
+    ait_11/the_squad_and_fireteam
+    ait_11/equipment
+    ait_11/preparing_for_action
+    ait_11/formations
+    ait_11/comunication
+    ait_11/battle_drills
+    ait_11/mout
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Airborne School ( BPT )
+
+    arbn/intro
+    arbn/explanation
+
+.. toctree::
+  :maxdepth: 1
   :caption: Instructor Handbooks
 
   bct/apendix_b_instructor_manual
