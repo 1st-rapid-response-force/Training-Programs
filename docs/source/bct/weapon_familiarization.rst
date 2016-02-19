@@ -143,7 +143,7 @@ M110
 
 M40A3
 
-  A bolt action sniper rifle that offers extremely strong performance in engagements out to 1500 metres when suppresed.
+  A bolt action sniper rifle that offers extremely strong performance in engagements out to 1200 metres even when suppresed.
 
   The rifle is the go to weapon of sniper and reconaissance teams in the 1st RRF.
 
