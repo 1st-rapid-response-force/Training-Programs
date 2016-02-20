@@ -35,7 +35,7 @@ Operations and Gameplay in the 1st RRF
 
 We schedule our operations very differently to other units. Most units have regular play times every week or every other week.
 
-In the RRF we schedule deployments, that work on a five week basis, for individual elements.
+In the RRF we schedule deployments, that work on a five week basis with two weeks of advance notice for individual elements.
 
 A deployment starts with a two weeks of notice period where we provide all of the times you would be playing during that deployment. You can accept or decline the deployment based on whether your schedule will fit.
 

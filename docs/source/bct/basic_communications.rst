@@ -39,11 +39,11 @@ Small Team Tactics form the backbone of the RRF's operations. No matter how many
 
 In this course you will be taught two very basic buddy team maneouvers:
 
-* Singing Guns
+* Talking Guns
 
 * The Buddy Team Bound
 
-**Singing Guns**
+**Talking Guns**
 
   This maneouver involves the two members of the fireteam alternating their shots to increase the amount of time that they can supress a target without an interruption in fire rate.
 

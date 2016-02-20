@@ -77,6 +77,14 @@ HK416
 
   It is exceptionally reliable and accurate but maintains magazine capacity with the weapons issued to the rest of the force.
 
+**Grenade Launchers**
+
+SCAR EGLM
+
+  The SCAR can be fitted with an Ergonomic Grenade Launcher unit capable of firing a wide variety of 40mm rounds.
+
+  This grenade launcher is accurate to approximately 400 metres and provides explosive area suppresion or long range marking capabilities.
+
 **Designated Marksman Rifles:**
 
 SCAR-H SV

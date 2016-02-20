@@ -20,7 +20,7 @@ In Game Sessions
 
 This AIT II is taught in a single session that last for approximately 1 hour and 15 minutes.
 
-The in game session consists of ground training the techniques at walking pace and two jumps from a C130 type aircraft.
+The in game session consists of ground training the techniques at walking pace, two practice jumps and a final qualification jump from a C130 type aircraft.
 
 
 Prerequisites
