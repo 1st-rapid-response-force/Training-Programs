@@ -44,7 +44,9 @@ Formations for Fire Teams
   .. image:: ../_static/Wedge.png
       :align: center
 
-  The most common formation for a fire team is the Wedge formation. This formation consists of a triangle formed of the team leader with the auto rifleman in the centre rear so that he can move to the side with contactske.
+  The most common formation for a fire team is the Wedge formation. This formation consists of a triangle formed of the team leader on point with the Auto Rifleman on the "weak side" of the wedge. The Specialist and the Grenadier form on the same side providing a "strong side".
+
+  The team leader will choose the sides depending on the likely direction of contact.
 
   This formation offers a good mix of security and speed. In this formation we have front, flank and rear security and the Autorifleman is able to manoeuvre to the side of the wedge that is receiving contact.
 

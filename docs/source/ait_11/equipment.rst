@@ -23,9 +23,9 @@ The standard issue combat uniform is the TFA NWU2/3 (AOR 1 / AOR 2 respectively 
 
 We issue FAST helmets for MOUT and Boonie Hats for patrols. All soldiers must carry a FAST helmet on their person at all times but may also carry a boonie hat if they wish.
 
-We issue TFA plate carriers in either NWU2, NWU3, Tan or Green.
+We issue TFA plate carriers in either NWU2, NWU3, Tan or Foliage.
 
-Finally we issue TFA Assualt packs in NWU2, NWU3, Tan or Green for infantry and TFA Caryalls for Medics in the same camoflauge sets.
+Finally we issue TFA Assualt packs in NWU2, NWU3, Tan or Foliage for infantry and TFA Caryalls for Medics in the same camoflauge sets. CLF radio backpacks in Tan or Foliage are available to leadership positions.
 
 Communication and Navigation Equipment
 --------------------------------------------

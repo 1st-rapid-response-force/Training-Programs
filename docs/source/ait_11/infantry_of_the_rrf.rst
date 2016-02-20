@@ -41,7 +41,7 @@ Some examples of the courses that will become available to you are:
 
   Taking JSRS means that you are able to become a Fire Team Leader, giving you an opportunity to command a small group of personnel and start a career in leadership.
 
-**Tactical Combat Casualt Care Training**
+**Tactical Combat Casualty Care Training**
 
   TC3 is our school for medical and trauma care. The primary focus is on training you to handle casualties on the battlefield including conducting triage and rendering aid to wounded personnel - both friendly and hostile - in line with the internation rules of war.
 

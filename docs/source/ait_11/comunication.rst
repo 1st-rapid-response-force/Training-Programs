@@ -3,7 +3,10 @@ Communication within a Fireteam
 
 Within a Fireteam it is important that personnel are able to communicate clearly and effectively. Most communication in a Fireteam is verbal communication and does not rely on a radio.
 
-Fire team members should only use the radio when separated from the team leader or when transmitting information that is time critical to the entire squad.
+.. note::
+  Fireteam members should only use the radio when separated from the team leader or when transmitting information that is time critical to the entire squad.
+
+  **95% of Fireteam communication is verbal and does not require radio use**
 
 In general the squad network should be kept clear so that Team Leaders can talk to Squad Leaders
 
@@ -45,13 +48,13 @@ Within a Fireteam there are only four basic communication concepts that need to 
 
   If someone is able to hear you they should respond:
 
-  ``CALLSIGN, lima charlie on FREQUENCY over.``
+  ``CALLSIGN, this is ME. Roger on FREQUENCY over.``
 
   .. note::
 
     If a frequency is received with poor reception you should respond to their radio check with:
 
-    ``CALLSIGN, you are coming in broken and unreadable over.``
+    ``CALLSIGN, this is ME, you are coming in broken and unreadable over.``
 
   .. warning::
 
@@ -77,7 +80,7 @@ Within a Fireteam there are only four basic communication concepts that need to 
 
   The format for a contact report is the same as the techniques learnt in BCT, except it is now over a radio:
 
-  ``You, this is Me, Contact Distance, Direction, Description Over``
+  ``You, this is Me, Taking Contact Distance, Direction, Description Over``
 
 Finishing touches for radio protocols
 --------------------------------------
