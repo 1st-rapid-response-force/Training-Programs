@@ -30,4 +30,4 @@ This serves as an introduction to these roles so you can understand the moving p
 
   He is ultimately responsible for the safety of all on board and will ensure that everyone has exited.
 
-  **The Loadmaster is exclusively responsible for opening and closing the aircraft's ramps and doors. You should not attempt to interact with the aircraft **
+  **The Loadmaster is exclusively responsible for opening and closing the aircraft's ramps and doors. You should not attempt to interact with the aircraft**

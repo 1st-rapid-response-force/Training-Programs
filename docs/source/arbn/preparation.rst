@@ -13,7 +13,7 @@ He will also point out any hazards you may face on the way down.
 Preparing your Equipment
 --------------------------
 
-Once you have been briefed on the LZ you will move to the Preparation Area.
+Once you have been briefed on the DZ you will move to the Preparation Area.
 
 The Logistics personnel working on the jump will have setout a rigging station for you to use.
 
@@ -34,4 +34,4 @@ At this time you should form into two ranks - normally one rank per squad with t
 
   Make sure that you are clear on your number and remember it for the duration of the jump. Write it down if needs be.
 
-When you have all your equipment and are assigned to a jump position, the hump master will assume control of the formation, and upon instruction, move you to the rear of the aircraft for boarding.
+When you have all your equipment and are assigned to a jump position, the jump master will assume control of the formation, and upon instruction from the ground crew, move you to the rear of the aircraft for boarding.
