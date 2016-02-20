@@ -48,7 +48,7 @@ Formations for Fire Teams
 
   The team leader will choose the sides depending on the likely direction of contact.
 
-  This formation offers a good mix of security and speed. In this formation we have front, flank and rear security and the Autorifleman is able to manoeuvre to the side of the wedge that is receiving contact.
+  This formation offers a good mix of security and speed. In this formation we have front, flank and rear security.
 
   The wedge is normally deployed when there is a possibility of contact, but it is not expected, and there is a need to move a non trivial distance.
 

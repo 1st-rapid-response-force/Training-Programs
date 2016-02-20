@@ -1,4 +1,4 @@
-Airborne School ( Basic Parachutist Training )
+Introduction to Basic Parachutist Training
 ================================================
 
 .. note:: Last Updated: 19FEB2015
