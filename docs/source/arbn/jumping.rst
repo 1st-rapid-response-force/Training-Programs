@@ -28,7 +28,7 @@ As you approach the ground, make sure to “flare” your parachute by pressing 
 
 .. warning::
 
-    You should refrain from making liberal use of the forward movement key. Doing so will increase your airspeed and risks causing sever injury on impact.
+    You should refrain from making liberal use of the forward movement key. Doing so will increase your airspeed and risks causing severe injury on impact.
 
 .. note::
 
