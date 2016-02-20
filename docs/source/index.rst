@@ -67,6 +67,12 @@ Training Programs:
 
     arbn/intro
     arbn/explanation
+    arbn/preparation
+    arbn/pre_jump
+    arbn/boarding
+    arbn/jumping
+    arbn/rallying
+    arbn/excercises
 
 .. toctree::
   :maxdepth: 1

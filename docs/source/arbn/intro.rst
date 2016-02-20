@@ -29,3 +29,8 @@ Prerequisites
 **This course requires that you have graduated AIT 11x series or AIT 15x series**
 
 You should take time to read and understand the training materials provided for this course before attending the ingame training session.
+
+Course Completion
+------------------
+
+Completing this course qualifies you as Airborne capable and allows you to apply to billets in our AARBN infantry elements.

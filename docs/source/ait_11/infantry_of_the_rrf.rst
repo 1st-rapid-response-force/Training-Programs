@@ -53,10 +53,14 @@ Some examples of the courses that will become available to you are:
 
   This course will qualify you to carry and utilise explosives and demolition equipment.
 
-**Special Operations Forces Selection Program**
+**Basic Parachutist Training**
 
-  Although it is exceptionally rare for someone to be accepted to the SOFS program before reaching at least SGT or more usually SSG, extremely promising candidates or those with existing experience in hardcore MILSIM environments may choose to apply for SOFS.
+  Taking this course will teach you how to be part of a static line jump in the 1st RRF.
 
-  This course will test your commitment to our level of simulation as well as training you in advanced tactics and weapon handling drills.
+  Completion will allow you to join our AARBN infantry elements and take part in parachute insertions.
 
-  SOFS takes approximately two and a half months of regular game time to complete and can only be attempted twice.
+**Air Assault Training**
+
+  Learn how to take part in an Air Assault insertion and extraction using helicopters as a means of force projection.
+
+  This course will qualify you to join one of our AASLT infantry teams and take part in Air Assault operations.
