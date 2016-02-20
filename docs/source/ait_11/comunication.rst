@@ -82,6 +82,15 @@ Within a Fireteam there are only four basic communication concepts that need to 
 
   ``You, this is Me, Taking Contact Distance, Direction, Description Over``
 
+PACE ( Primary, Alternate, Contigency and Emergency Communications ) plans
+--------------------------------------------------------------------
+
+At the start of any mission your team will be issued with a PACE plan. This details the communication methods that will be used if other fail.
+
+The SOP for the 1st RRF is voice, radio, runner and visual signal - however this may be changed on a per Operation Basis by leadership.
+
+You should only move to the next method of communication once the one before it has proven incapable.
+
 Finishing touches for radio protocols
 --------------------------------------
 
