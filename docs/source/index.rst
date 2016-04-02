@@ -80,10 +80,6 @@ Training Programs:
 
   bct/apendix_b_instructor_manual
 
-=================================================
-Brand Materials:
-=================================================
-
 .. toctree::
   :maxdepth: 1
   :caption: Brand Guidelines
