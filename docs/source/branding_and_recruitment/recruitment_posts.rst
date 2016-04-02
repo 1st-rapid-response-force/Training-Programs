@@ -45,7 +45,7 @@ Short Form Post
   1st Rapid Response Force
   ------------------------
 
-  The 1st Rapid Response Force is an International Military Simulation Unit dedicated to a high level of tactical simulation. We are a multi disciplinary unit with over 30 MOSs backed up by 35 training program all custom made by active duty military members. We have a stable leadership element with three years under their belt and have built a large number of custom systems to make our unique playstyle possible. Our unit has recently launched and we are looking to grow to 160 players - get in early to be part of our future!
+  The 1st Rapid Response Force is an International Military Simulation Unit dedicated to a high level of tactical simulation. We are a multi disciplinary unit with over 30 MOSs backed up by 35 training program all custom made by our members. We have a stable leadership element with three years under their belt and have built a large number of custom systems to make our unique playstyle possible. Our unit has recently launched and we are looking to grow to 160 players - get in early to be part of our future!
 
 Long Form Post
 ---------------
@@ -72,7 +72,7 @@ Long Form Post
 
     As a unit we have over 30 MOS codes backed up with more than 35 training programs which combined total over 700 A4 pages of written training content.
 
-    All of our training programs are written by active duty military personnel with real life experience at both the office and NCO level but have been adapted to our specific ARMA environment. This is a step change to the regular "Modified Field Manual" approach of some units as it means we are only training useful and applicable information.
+    All of our training programs are written by people with real life experience but have been adapted to our specific ARMA environment. This is a step change to the regular "Modified Field Manual" approach of some units as it means we are only training useful and applicable information.
 
     The 1st RRF is an environment where anyone can fulfill their ambitions of leadership at any level in confidence that they will receive the highest quality training necessary to perform their function in a correct and standardized way.
 

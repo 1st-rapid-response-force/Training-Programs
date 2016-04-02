@@ -43,7 +43,7 @@ The 1st RRF has over 35 training programs spread across 4 different disciplines 
 
 Our Unit contains detailed training for infantry ( including Airborne, Air Assault, Amphibious, Light and Mechanized Infantry ), Aviation ( including Fixed and Rotary Wing ), Logistics and Support Roles ( including Air Traffic Control and Logistical Supply Teams ), Armour and Leadership Elements.
 
-We have developed over 700 A4 pages of highly specialized training written by active duty military personnel. Each training manual is unique in its structure and applies unqiuely to ARMA. Many other units will choose to basterdize field manuals from real world militaries leading to confusion and unapplicable tactics.
+We have developed over 700 A4 pages of highly specialized training written by members with real life experience. Each training manual is unique in its structure and applies unqiuely to ARMA. Many other units will choose to basterdize field manuals from real world militaries leading to confusion and unapplicable tactics.
 
 Very few simulation groups can display this level of standardization and planning and even fewer have training program which are designed to interoperate together.
 
