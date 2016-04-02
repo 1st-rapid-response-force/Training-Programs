@@ -79,3 +79,16 @@ Training Programs:
   :caption: Instructor Handbooks
 
   bct/apendix_b_instructor_manual
+
+=================================================
+Brand Materials:
+=================================================
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Brand Guidelines
+
+  branding_and_recruitment/intro
+  branding_and_recruitment/value_propositions
+  branding_and_recruitment/recruitment_posts
+  branding_and_recruitment/inbound
