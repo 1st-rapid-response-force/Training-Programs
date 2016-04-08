@@ -14,7 +14,7 @@ We deploy Infantry elements by the squad to AORs based on their size, ability an
 
 Infantry elements are called Squads which fall into Platoons - this will be explained in more detail in the next chapter.
 
-As a member of the infantry you will be deployed to one of our active AORs for rought three weeks at a time in line with our deployment process covered in the BCT course.
+As a member of the infantry you will be deployed to one of our active AORs for roughly three weeks at a time in line with our deployment process covered in the BCT course.
 
 Prior to deployment, your element will undergo a TDY program where your squad leader will recap the parts of your training which will be used in the specific environment to make sure eveyone is functioning at their best.
 
