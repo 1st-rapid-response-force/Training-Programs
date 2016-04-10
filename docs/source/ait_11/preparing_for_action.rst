@@ -20,9 +20,9 @@ Finally you should report to the Logistics Facility to retrieve Ammunition, Medi
 
   When loading out you may be tempted to attempt to carry more magazines than you are permitted to carry. This will not only harm your squad mates who will not have enough magazines, it will also have severe consequences if you are found out for it.
 
-  The punishment for being caught with intentionally over capacity ammunition at the time of mission commencement is a Verbal Counseling statement with the unit commander, if the act happens a second time you will receive a Negative Counseling Statement on your personnel file. Further violations lead to demotion, reassignment, and even discharge from the unit.
+  The punishment for being caught with intentionally over capacity ammunition at the time of mission commencement is a Verbal Counseling statement with the Unit Commander, if the act happens a second time you will receive a (NCS) Negative Counseling Statement on your personnel file. Further violations lead to demotion, reassignment, and even discharge from the unit.
 
-  We take our simulation environment very seriously however we must rely on player honesty to implement some constraints to the system. Hence we rely on players to take their allowed ammunition and strongly look down on violations of this trust.
+  We take our simulation environment very seriously however, we must rely on player honesty to implement some constraints to the system. Hence we rely on players to take their allowed ammunition and strongly look down on violations of this trust.
 
 Setting up your Radio
 ----------------------------
