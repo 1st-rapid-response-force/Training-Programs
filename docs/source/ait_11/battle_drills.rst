@@ -63,10 +63,62 @@ At a Platoon level the same battle drills are used except entire squads are used
 
 In this effect a platoon react to contact drill might work like this:
 
-1. The first squad takes contact, becomes decisevly engaged and communicated the contact information whilst suppresing the target
+1. The first squad takes contact, becomes decisevly engaged and communicates the contact information whilst suppresing the target
 
 2. Second squad move to flank and push through the contact
 
 3. Second squad assault and move to the line of advance on the objective.
 
 4. First squad move up and push to the line of advance on the objective.
+
+Linear Danger Areas
+--------------------
+
+A linear danger area is one where there is an extended, exposed horizontal area, devoid of cover or concealment, where an enemy force would may spot and engage friendly forces. Examples of Linear Danger Areas (LDAs) include roads, runways, large clearings in forests as well as rivers and / or fords.
+
+The Three Methods of Crossing a LDA
+-----------------------------------
+
+There are three methods that can be used to cross a LDA. Your element leader will select a method based on the speed and security with which he wishes to cross the LDA. This decision making process is covered in a higher level training and is not documented in this course.
+
+**Deliberate Crossing**
+
+A Deliberate Crossing is the slowest and most secure way of crossing a linear danger area.
+
+This involves one team first setting security on the near side of the LDA, seeking cover and concealment, from which the other team can be covered as they move across the LDA.
+
+At the fireteam level this will be done by creating a gate at the edge of the linear danger area through which the second team will pass to prevent crossing any friendly lines of fire. The size of the gate will be defined by the availability of cover and concealment but could be as small as a few metres or as large as one hundred metres.
+
+Once the gate has been established the second team will cross the LDA and clear the far side. Once the far side is secure the team leader will set up a far side gate, placing his team in cover and concealment so that they can provide security to the crossing team.
+
+Once the far side security has been set the Fire Team Leader will radio the Squad Leader that it is safe for the next team to cross. At this time the near side security team will pick up and move their position across the road.
+
+.. image:: ../_static/deliberate_crossing.png
+    :align: center
+
+.. note::
+  In the event that the deliberate crossing is part of a larger platoon crossing the near side team will not collapse. They will instead remain in position to allow the platoon to pass through. Once the platoon has passed through the near side security will then collapse across the road and the the squad will become the last in the platoon formation.
+
+**Hasty Crossing**
+
+A Hasty Crossing is a faster but still relatively secure crossing method of crossing an LDA that can be used if there is a low risk of contact and a desire to cover ground faster. The Hasty Crossing is sometimes reffered to as "Scrolling" a road.
+
+The Hast Crossing involves the squad facing alternating directions across the LDA and forming a File. The squad will then approach the edge of the LDA man by man, with the next man moving across when he is shoulder to shoulder with the man behind him.
+
+Once across the soldier will wait for the next man to come across and take his position before moving on to a covered and concealed position.
+
+This is repeated until the entire formation has crossed the LDA.
+
+.. image:: ../_static/hasty_crossing.png
+    :align: center
+
+**Crossing by Force**
+
+Crossing by Force refers the the practise of moving straight across the linear danger area without regards to special security or crossing techniques.
+
+This is used when there is a very high demand for speed and a low chance of contact.
+
+Additional Battle Drills
+------------------------
+
+Once you are assigned to an element your Squad Leader will introduce you to more task specific drills during trainings. This will help your squad to become more effective at handling situations that are commonly encountered.
