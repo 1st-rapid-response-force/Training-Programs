@@ -121,4 +121,4 @@ This is used when there is a very high demand for speed and a low chance of cont
 Additional Battle Drills
 ------------------------
 
-Once you are assigned to an element your Squad Leader will introduce you to more task specific drills during trainings. This will help your squad to become more effective at handling situations that are commonly encountered.
+Once you are assigned to an element your Squad Leader will introduce you to more task specific drills during trainings. This will help your squad to become more effective at handling situations that are commonly encountered in your particular discipline.
