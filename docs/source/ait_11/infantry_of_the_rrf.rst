@@ -14,7 +14,7 @@ We deploy Infantry elements by the squad to AORs based on their size, ability an
 
 Infantry elements are called Squads which fall into Platoons - this will be explained in more detail in the next chapter.
 
-As a member of the infantry you will be deployed to one of our active AORs for rought three weeks at a time in line with our deployment process covered in the BCT course.
+As a member of the infantry you will be deployed to one of our active AORs for roughly three weeks at a time in line with our deployment process covered in the BCT course.
 
 Prior to deployment, your element will undergo a TDY program where your squad leader will recap the parts of your training which will be used in the specific environment to make sure eveyone is functioning at their best.
 
@@ -39,13 +39,13 @@ Some examples of the courses that will become available to you are:
 
   The JSRS is a comprehensive school for radio operation and procedure in the 1st RRF. It is an extremely important course if you wish to progress to any position of leadership or command as you will make regular use of your skills to communicate on the battlefield.
 
-  Taking JSRS means that you are able to become a Fire Team Leader, giving you an opportunity to command a small group of personnel and start a career in leadership.
+Taking JSRS will provide you the skills necessary to operate as a Fire Team Leader, commanding small group of personnel and is your first step into a leadership role.  
 
 **Tactical Combat Casualty Care Training**
 
-  TC3 is our school for medical and trauma care. The primary focus is on training you to handle casualties on the battlefield including conducting triage and rendering aid to wounded personnel - both friendly and hostile - in line with the internation rules of war.
+  TC3 is our school for medical and trauma care. The primary focus is on training you to handle casualties on the battlefield including conducting triage and rendering aid to wounded personnel - both friendly and hostile - in line with the international rules of war.
 
-  Taking the TC3 program will also train you how to serve as a flight medic and rear line medical aid provider should you wish to apply to one of these positions. Finally qualifying on TC3 will allow you to apply for an MOS transfer to 68W Combat Medic and take up medical positions in the infantry platoons.
+  Taking the TC3 program will also train you how to serve as a flight medic and rear line medical aid provider (should you wish to apply to one of these positions). Finally qualifying on TC3 will allow you to apply for an MOS transfer to 68W Combat Medic and take up medical positions in the infantry platoons.
 
 **Demolition and EOD Training Program**
 

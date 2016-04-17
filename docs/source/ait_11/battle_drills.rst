@@ -3,7 +3,7 @@ Introduction to Battle Drills
 
 Battle Drills are practiced responses to a given situation that represent the ideal mechanism for the response.
 
-They define our normal response to situations in ideal conditions, however your squad leader will have received training on their use and modification. As such they tend to fall more as guidelines that are adapted to the situation in the field. You should be prepared for this by having the best possible knowledge of these drills so that you are able to understand how to modify and implement them.
+They define our normal response to situations in ideal conditions however, your squad leader will have received training on their use and implementation. As such they tend to fall more as guidelines that are adapted to the situation in the field. You should be prepared for this by having the best possible knowledge of these drills so that you are able to understand how to modify and implement them.
 
 .. note::
 
