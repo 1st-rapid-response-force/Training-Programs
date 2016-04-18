@@ -39,7 +39,7 @@ Some examples of the courses that will become available to you are:
 
   The JSRS is a comprehensive school for radio operation and procedure in the 1st RRF. It is an extremely important course if you wish to progress to any position of leadership or command as you will make regular use of your skills to communicate on the battlefield.
 
-Taking JSRS will provide you the skills necessary to operate as a Fire Team Leader, commanding small group of personnel and is your first step into a leadership role.  
+Taking JSRS will provide you the skills necessary to operate as a Fire Team Leader, commanding small group of personnel and is your first step into a leadership role.
 
 **Tactical Combat Casualty Care Training**
 
@@ -47,11 +47,9 @@ Taking JSRS will provide you the skills necessary to operate as a Fire Team Lead
 
   Taking the TC3 program will also train you how to serve as a flight medic and rear line medical aid provider (should you wish to apply to one of these positions). Finally qualifying on TC3 will allow you to apply for an MOS transfer to 68W Combat Medic and take up medical positions in the infantry platoons.
 
-**Demolition and EOD Training Program**
+**Warrior Leadership Course**
 
-  The Demolitions and EOD program is designed to train members of the unit on how to plant, activate, detonate and defuse explosive ordance safely on the battlefield.
-
-  This course will qualify you to carry and utilise explosives and demolition equipment.
+  The Warrior Leaders course teaches all the tactics required for you to operate as a Squad Leader including how to make tactical decisions as well as understand your place in the wider battlespace.
 
 **Basic Parachutist Training**
 
