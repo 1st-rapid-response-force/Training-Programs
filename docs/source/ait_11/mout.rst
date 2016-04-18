@@ -118,7 +118,7 @@ When clearing stairs the team should form a stack with the first man maintaining
 Visual Markings for MOUT
 -------------------------
 
-MOUT has it's own SOPs for marking positions and buildings to indicate
+MOUT has it's own SOPs for marking positions and buildings to indicate status. If you will be operating in an Urban Terrain during a mission you should equip yourself with the necessary equipment to utilize these markings.
 
 +-------------------+-------------------------------+-------------------+
 | Position Type     | Day                           | Night             |
