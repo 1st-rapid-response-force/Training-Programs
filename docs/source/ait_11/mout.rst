@@ -49,3 +49,23 @@ Team members should alternate the direction of travel starting from the first ma
 
 .. warning::
   A common mistake for new soldiers is to think that the breaching team should move through the center of the room. In general you should remain close to the walls during your movement to a point of domination so that you are not exposed to unnecessary angles.
+
+**Moving to a Point of Domination**
+
+.. note::
+  A point of domination is a position in a room which provides strong, distinct and unimpeded firing angles in an MOUT environment.
+
+Once the team has made breach the personnel will alternate their direction of travel and move to their points of domination. During movement care should be given to any windows or doors that may hold new threats. One should not cross a door whilst the current room is unclear - instead security should be set on the door to prevent any new targets entering through the breach.
+
+**Performing a status check**
+
+At such a time that the Team Leader believes the room to be secure he will call a status check in which the personnel should respond with their color code. If a soldier needs to reload or administer first aid he will call this out to the team and take a knee. Another member of the team will adjust to cover his sector of fire so security is maintained.
+
+**Short Rooms**
+
+If a room is unable to fit a full team the team leader will call a short room. In this instance only two people should enter with the rest of the team maintaing security outside the breach.
+
+Hallways
+--------
+
+Clearing and moving in Hallways
