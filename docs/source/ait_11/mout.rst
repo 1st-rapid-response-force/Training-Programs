@@ -68,4 +68,66 @@ If a room is unable to fit a full team the team leader will call a short room. I
 Hallways
 --------
 
-Clearing and moving in Hallways
+Clearing and moving in Hallways requires a different formation to the MOUT stack so that the element has the ability to securely maneouver within a confined linear space.
+
+This formation is called the rolling T and provides good security up and down the hallways as well as allowing for flexible rotation around corners and intersections.
+
+The T is formed with two rifleman on point with the Team Leader in the center and the autorifleman maintaining rear security.
+
+.. image:: ../_static/rolling_t.png
+    :align: center
+
+**Clearing an L Shaped Corner with a Rolling T Formation**
+
+To clear an L Shaped Corner in a coridor the team will rearange to maintain security on the point.
+
+On order the pointmen will conduct a high man / low man movement around the corner and engage and eliminate any threats in the halway. Once clear they will push around the corner reassuming the rolling T formation.
+
+Finally the team leader and auto rifleman will fall into position on the far side of the corner and the T will continue movement down the corridor.
+
+.. image:: ../_static/rolling_t_corner.png
+    :align: center
+
+**Clearing a T Shaped Intersection with a Rolling T Formation**
+
+To clear a T Shaped Intersection in a corridor the team will move stack on either side of the corridor and hold security on the opposite side of the corridor. The team leader will call a direction of travel once the T has been cleared.
+
+On order the pointmen will move into their respective sides of the T shaped intersection to engage and eliminate any threats present in the corridor.
+
+Once threats have been eliminated the TL and rear security will move into the respective positions of the T formation, the formation will consolidate and the T will continue to move down the corridor in the direction of movement that the Team Leader has chosen.
+
+.. image:: ../_static/rolling_t_intersection.png
+    :align: center
+
+**Clearing a Four Way Intersection with a Rolling T Formation**
+
+On approaching a Four Way Intersection the pointmen will move to cover the hallways to the left and right of the formation respectively.
+
+The Team Leader and rear security will then cross the hallway and move to their respective positions.
+
+Finally the two pointmen will fall back into the formation in their positions, collapsing in from the side hallways and the T will continue movement.
+
+.. image:: ../_static/rolling_t_intersection_four.png
+    :align: center
+
+Clearing Stairs
+---------------
+
+When clearing stairs the team should form a stack with the first man maintaining forward security and the second man packed closely maintaining high side rear security to ensure noone is shot from a landing area. The remainder of the team will follow the pointman up the stairs and reassume the necessary formation once the next floor is reached.
+
+Visual Markings for MOUT
+-------------------------
+
+MOUT has it's own SOPs for marking positions and buildings to indicate
+
++-------------------+-------------------------------+-------------------+
+| Position Type     | Day                           | Night             |
++===================+===============================+===================+
+| Friendly Position | Green Smoke                   | IR Strobe         |
++-------------------+-------------------------------+-------------------+
+| Enemy Position    | Red Smoke                     | IR Laser "Circle" |
++-------------------+-------------------------------+-------------------+
+| Building Cleared  | X on the Map / BLUFOR Tracker | Green Chemlight   |
++-------------------+-------------------------------+-------------------+
+| Explosive Device  | E on the Map / BLUFOR Tracker | Red Chemlight     |
++-------------------+-------------------------------+-------------------+
