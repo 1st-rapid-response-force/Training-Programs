@@ -59,6 +59,7 @@ Training Programs:
     ait_11/formations
     ait_11/comunication
     ait_11/battle_drills
+    ait_11/basic_medical
     ait_11/mout
 
 .. toctree::
