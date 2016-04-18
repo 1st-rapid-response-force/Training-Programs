@@ -10,13 +10,13 @@ Standard Medical Equipment
 
 A standard infantry first aid kit cotains the following equipment:
 
-  * 5x Field Bandages
-  * 2x Quik Clot
-  * 2x Morphine Autoinjectors
+  * 2x Combat Application Tourniquet
+  * 4x Field Bandages
+  * 2x Packing Bandages
   * 2x Elastic Bandages
-  * 2x Tourniquet
-  * 1x Saline IV (500ml) - Carried for use by medic
-  * 1x Bodybag
+  * 4x Quik Clot
+  * 2x Morphine
+  * 1x Saline 500 ml
 
 Using the ACE Medical System
 -----------------------------
