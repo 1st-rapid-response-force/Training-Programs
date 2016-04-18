@@ -12,6 +12,9 @@ The Fatal Funnel
 .. danger::
   Windows also present danger to a breaching element.  Team members must use caution when approaching or stacking near windows and security should be maintained on windows when possible.
 
+.. image:: ../_static/fatal_funnel.png
+    :align: center
+
 Approaching a Structure
 -----------------------
 
@@ -26,12 +29,18 @@ Performing a Breach
 
 The first step to breaching is to stack on the door. The first man in the stack will maintain security on the breach while the second, third and fourth men will adjust their sectors of fire to provide maximum security around the element including but not limited to the rear and high side threats.
 
+.. image:: ../_static/Stack.png
+    :align: center
+
 **Breacher Up**
 
 If a ballistic, explosive or flashbang breach are required the team leader will call "Breacher Up" at which time the number 2 man will maneouver to a wide angle position ahead of the stack from which he is able to effectively deploy the required breaching tools.
 
 .. note::
   Not every breach point will require a Breacher.
+
+.. image:: ../_static/stack_room_flash.png
+    :align: center
 
 **Status Check**
 
@@ -56,6 +65,15 @@ Team members should alternate the direction of travel starting from the first ma
   A point of domination is a position in a room which provides strong, distinct and unimpeded firing angles in an MOUT environment.
 
 Once the team has made breach the personnel will alternate their direction of travel and move to their points of domination. During movement care should be given to any windows or doors that may hold new threats. One should not cross a door whilst the current room is unclear - instead security should be set on the door to prevent any new targets entering through the breach.
+
+.. image:: ../_static/points_of_domination_1.png
+    :align: center
+
+.. note::
+  Corner rooms have slightly modified points of domination shown below:
+  
+  .. image:: ../_static/points_of_domination_2.png
+      :align: center
 
 **Performing a status check**
 
