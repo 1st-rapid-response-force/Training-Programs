@@ -83,6 +83,12 @@ Training Programs:
 
 .. toctree::
   :maxdepth: 1
+  :caption: Policies and Official Documents
+
+  official_documentation/ranks_and_promotions.rst
+
+.. toctree::
+  :maxdepth: 1
   :caption: Brand Guidelines
 
   branding_and_recruitment/intro
