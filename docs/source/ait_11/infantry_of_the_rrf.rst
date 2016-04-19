@@ -25,7 +25,7 @@ Once deployed, you will be tasked with between one and three operations a week i
 Progressing in the Infantry
 ------------------------------
 
-Once you complete this AIT program and take the AIT II class for your selected position you might want to know how you can further advance your career in the 1st RRF.
+Once you complete this AIT program you might want to know how you can further advance your career in the 1st RRF.
 
 Your immediate thoughts should be on doing a great job in the position you are assigned and showing that you can work well in a team as well as showing leadership at appropriate times.
 
