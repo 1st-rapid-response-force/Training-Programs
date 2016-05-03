@@ -61,7 +61,7 @@ You will throw 5 grenades on the grenade range. You will be judged on two criter
 
 To qualify you must hit targets with three of the grenades without any safety violations.
 
-When throwing a grenade,  safety and communication are key. You should observe the situation around you and ensure that all friendly personnel are out of range from the blast. You should then clearly yell grenade, as well as the intended target. For example "GRENADE OUT, BUNKER 12 O'CLOCK". Only after this announcement is made should you begin to throw the grenade.
+When throwing a grenade,  safety and communication are key. You should observe the situation around you and ensure that all friendly personnel are out of range from the blast. You should then clearly yell Frag Out, as well as the intended target. For example "FRAG OUT, BUNKER 12 O'CLOCK". Only after this announcement is made should you begin to throw the grenade.
 
 When handling grenades, you should always try to keep a non lethal grenade selected in your equipment unless you are ready to throw the lethal grenade. This prevents accidental grenade discharges.
 
