@@ -1,4 +1,4 @@
-Using ACE 3 to render medical care
+The ACE 3 Medical System
 ==================================
 
 Medics are expected to fully understand the ACE medical system including all possible symptoms and side effects as well as being drilled in quickly providing the correct care to patients.
@@ -46,7 +46,9 @@ Blood pressure is affected by the patient's blood volume and administered medica
 
 **Responsive State**
 
-If a patient's pulse or blood volume falls to low the patient will become unconcious ( non-responsive ). Responsiveness comes in two forms:
+If a patient's pulse or blood volume falls to low the patient will become unconcious ( non-responsive ). Unconcious states can also be prompted by sudden impacts such as car or helicopter crashes as well as being the result of chemical use such as morphine.
+
+Responsiveness has two categories:
 
   * **BLACK** - Un Responsive
   * **GREEN** - Responsive
@@ -61,3 +63,67 @@ For example:
   RED - GREEN - BLACK is a non responsive casualty with a normal pulse and a low blood pressure.
 
 MEDSTATs allow for rapid communication about the status of a casualty.
+
+Injury Type
+------------
+
+Each limb on the body can receive different types of injury. Each injury has a different level of pain and bleeding that it will inflict.
+
+Each injury type also has a set of treatment procedures that are best suited for it - these will be laid out in the subsequent chapter about rendering aid.
+
+The injury types are:
+
+**Abrasions**
+
+An Abrasion is a wound caused by friction. Examples include Vehicle Crashes and Rope Burn. This wound type has a **low** pain effect and an **extremely slow** bleed rate.
+
+**Avulsions**
+
+An Avulsion is when an entire structure is seperated from the body. Examples include lost teeth or an ear lobe. These are caused by explosions, shrapnel and any other situation which could sever a body part.
+
+Avulsions have an **extremely high** pain effect with an **extremely fast** bleed rate.
+
+**Contusions**
+
+Contusions, commonly known as Bruises, are caused by traumas that injure an internal structure without breaking the skin. Blunt blows to areas such as the chest or head can cause contusions.
+
+..note::
+  Due to poor modelling in ARMA contusions do not cause blood loss
+
+**Lacerations**
+
+Lacerations are wounds with ragged edges. They are produced by large forces exerted on the body.
+
+Lacerations have a **light** pain effect with a **slow** bleed rate.
+
+**Velocity Wound**
+
+A Velocity wound is caused by objects entering the body at speed, such as shrapnel or bullets.
+
+Velocity wounds have an **extremely high** pain effect with a **medium** bleed rate.
+
+**Puncture Wounds**
+
+A puncture wound is a narrow wound produced by a sharp object such as a knife.
+
+Puncture wounds have a **light** pain effect with a **slow** bleed rate.
+
+Injury Sizes
+-------------
+
+Each injury type can come in a variety of sizes which increases or decreases the bleed rate of the wound.
+
+Cardiac Arrest
+--------------
+
+A cardiac arrest is when the heart stops pumping. In game this is an extremely bad situation and means that the individual has to be MEDEVACd to a Level 2 facility.
+
+A Cardiac Arrest is triggered when a patient fufills any of the following criteria:
+
+  * A heart rate below 20
+  * A heart rate above 200
+  * A Systolic blood pressure above 260
+  * A Diastolic blood pressure below 40 with a heart rate above 190
+  * A Systolic blood pressure is above 145 and the heart rate is above 150
+
+Once a patient enters cardiac arrest they cannot be recovered in the field. CPR will extend the time until they fully die - allowing enough time for them to reach a medical facility capable of restarting the heart.
