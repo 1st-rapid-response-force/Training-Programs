@@ -1,4 +1,4 @@
-BCT Instructor Handbook
+AIT Instructor Handbook
 ========================
 
 .. DANGER::
@@ -8,13 +8,6 @@ BCT Instructor Handbook
 
   We publish this information but we request that you do not read the instructor section until you have completed the course.
 
-**Table of Contents**
-
-  * :ref:`instructor_outline`
-  * :ref:`introduction`
-
-.. _instructor_outline:
-
 Instructor Outline
 -------------------
 
@@ -23,8 +16,6 @@ Instructor Outline
 **Class Size:** Between 2 and 8 trainees at any one time
 
 **Instructors Required:** One Instructor for every four trainees
-
-.. _introduction:
 
 Introduction
 ---------------
@@ -36,8 +27,6 @@ AIT is also a chance for the recruit to get a glimpse of some of the more compli
 .. warning::
 
   If at any point a recruit reveals they have not read the documentation fully they should be removed from the session and told to apply for the next available time slot.
-
-.. _forming_up:
 
 Stage 1 - Forming Up
 ------------------------------------------------
@@ -55,8 +44,6 @@ Example:
 
   “Ok, at this time board the vehicle and we will move to the AIT Phase I training area”
 
-.. _safety:
-
 Stage 2 - Safety Briefing
 -------------------------
 
@@ -72,8 +59,6 @@ Instructors should cleary explain the following points to recruits:
   * If any injuries occur all training will stop and all weapons will be made safe. A medical team will be called ASAP.
 
 At this time trainees should move to the formations area.
-
-.. _formations:
 
 Stage 3 - Fire Team Formations
 ------------------------------
@@ -100,8 +85,6 @@ Example:
 
   “Bear in mind your movement will be limited based on your equipment load and effects on stamina.  You will not be able to sprint if your stamina is low, and you will move slower in all stances when your stamina is depleted.”
 
-.. _bounding:
-
 Stage 4 - Fire Team Bounding
 ----------------------------
 
@@ -112,8 +95,6 @@ Example:
   “Ok trainees, now we will discuss bounding as a member of a fire team.  If you remember from basic training, bounding is used to close with the enemy while maintaining constant fires and movement between cover.  The principles are no different for a fire team, with one exception; the fire team is larger than a buddy team.”
 
   “There are two standard bounding techniques used in a fire team; alternating, and successive bounding.  Imagine that the fire team is on line and the positions are numbered from one to four.  In alternating bounding, #1 and #2 will move to a position to the front and re-establish engagement with the enemy.  Once set, #3 and #4 will move to a position past the other element and re-establish contact.  This will continue until the team leader ceases movement.  In successive bounding, #1 and #2 will move to a position to the front and re-establish contact with the enemy.  Once set, #3 and #4 will move to a position on line with the other element (not past as in alternating), and re-establish contact.  This will continue until the team leader ceases movement.”
-
-.. _dangerareas:
 
 Stage 5 - Crossing LinearDanger Areas
 --------------------------------------
