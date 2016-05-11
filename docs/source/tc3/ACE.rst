@@ -92,7 +92,7 @@ Avulsions have an **extremely high** pain effect with an **extremely fast** blee
 
 Contusions, commonly known as Bruises, are caused by traumas that injure an internal structure without breaking the skin. Blunt blows to areas such as the chest or head can cause contusions.
 
-..note::
+.. note::
   Due to poor modelling in ARMA contusions do not cause blood loss
 
 **Lacerations**
@@ -145,5 +145,5 @@ Changing the Medical Menu to a 2D interface:
 
 After enabling the medical menu you should be able to ACE interact and find the "Medical Menu" under interactions - this is in contrast to the usual 3D "Medical" setting that would be there. This allows you to access the 2D medical menu and access time critical information faster.
 
-..note ::
+.. note::
   We also recommend setting your ACE interact and self interact key to a mouse hotkey if you have them available so that you are able to access these options faster.

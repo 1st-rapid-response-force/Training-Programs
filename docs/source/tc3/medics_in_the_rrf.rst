@@ -32,8 +32,8 @@ The team will almost always remain close to their vehicles as they act as their 
 
 **Air Assault and Airborne Infantry**
 
-Medics attached to Air Assault and Airborne infantry platoons will operate with the platoons to provide an embedded medical capability on the ground and a centralized hand over to further medical care. They are not in possesion of any special vehicles and as such will be unable to stitch wounds.
+Medics attached to Air Assault and Airborne infantry platoons will operate with the platoons to provide an embedded medical capability on the ground and a centralized hand over to further medical care. They are not in possesion of any special vehicles and as such will be unable to stitch wounds or provide blood transfusions.
 
 **MEDEVAC Helicopter Flight**
 
-MEDEVAC helicopter personnel are trained to operate specially equipped blackhawk helicopters to carry casualties back to base. Medical teams assigned to a MEDEVAC helicopter will work with the flight team to provide on board medical aid to collected casualties.
+MEDEVAC helicopter personnel are trained to operate specially equipped blackhawk helicopters to carry casualties back to base for Level 2 care. Medical teams assigned to a MEDEVAC helicopter will work with the flight crew to receive casualties in the battlezone and bring them back to a Level 2 facility.

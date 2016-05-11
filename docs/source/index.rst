@@ -76,6 +76,18 @@ Training Programs:
     arbn/excercises
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Tactical Combat Casualty Care ( TC3 )
+
+    tc3/intro
+    tc3/medics_in_the_rrf
+    tc3/ACE
+    tc3/rendering_aid
+    tc3/equipment_of_the_medical_teams
+    tc3/levels_intro
+    tc3/ingame
+
+.. toctree::
   :maxdepth: 1
   :caption: Instructor Handbooks
 
