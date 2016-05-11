@@ -92,6 +92,7 @@ Training Programs:
   :caption: Instructor Handbooks
 
   bct/apendix_b_instructor_manual
+  ait_11/instructor_manual
 
 .. toctree::
   :maxdepth: 1
