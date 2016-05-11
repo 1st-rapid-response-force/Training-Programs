@@ -7,6 +7,11 @@ In order to facilitate this goal you should carefully read through the following
 
 You should also be advised that not all avenues of treatment are available to all personnel and as such the system may be more complicated than the "hit them with a PAK" method used in other groups.
 
+.. note::
+  You should thoroughly review the information on this page.
+
+  In order to help you operate at the highest level you can download the Apendices at the end of this training program that provide printable cheat cards for reference during training and combat.
+
 The Basics
 -----------
 
@@ -127,3 +132,18 @@ A Cardiac Arrest is triggered when a patient fufills any of the following criter
   * A Systolic blood pressure is above 145 and the heart rate is above 150
 
 Once a patient enters cardiac arrest they cannot be recovered in the field. CPR will extend the time until they fully die - allowing enough time for them to reach a medical facility capable of restarting the heart.
+
+Setting up ACE to be efficient
+-------------------------------
+
+ACE 3 is a matrix of complicated 3D menus and contrived custom keys. As such we have introduce additional tooling to make this process faster for medical personnel so they are able to act more efficiently.
+
+Changing the Medical Menu to a 2D interface:
+  1. Go to the ACE OPTIONS menu in the top left hand corner of your in game options menu.
+  2. Navigate to the "Medical Menu" option
+  3. Enable the Medical Menu
+
+After enabling the medical menu you should be able to ACE interact and find the "Medical Menu" under interactions - this is in contrast to the usual 3D "Medical" setting that would be there. This allows you to access the 2D medical menu and access time critical information faster.
+
+..note ::
+  We also recommend setting your ACE interact and self interact key to a mouse hotkey if you have them available so that you are able to access these options faster.

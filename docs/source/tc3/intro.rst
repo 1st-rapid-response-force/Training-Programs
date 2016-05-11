@@ -15,3 +15,8 @@ In this course you will be taught the fundamentals of how medics operate in the 
   This course does not have a minimum rank requirement.
 
 **You should fully read the training materials before installing the game**
+
+..warning ::
+  TC3 is a complicated course and we expect our medics to have a strong command of this material.
+
+  You should dedicate a good amount of time to understanding and learning the information contained in this course.
