@@ -48,7 +48,7 @@ LCOM ( Long Comm ) rated radio's are rated for a transmission range of 20 KM and
 
 **AVCOM Rated**
 
-AVCOM ( Aviation Comm ) rated radio's are rated for a transmission range of 40 KM and can operate between 30 and 87MHz with a frequency resolution of 0.01 MHz.
+AVCOM ( Aviation Comm ) rated radio's are rated for a transmission range of 40 KM and can operate between 30 and 87MHz with a frequency resolution of 0.1 MHz.
 
 
 When provided with a radio by the unit you will always be given its COM rating as well as it's feature list. If you are not given this information a full list of our radios, their ratings and features can be found in Appendix C - Radio Equipment.
@@ -57,3 +57,20 @@ Transmission
 ------------
 
 A Transmission is a burst of communication sent from one callsign to another on a Frequency. A transmission occurs on a frequency and contains the sender and intended recipient in alongside a corresponding end word - either "Over" or "Out" but never both.
+
+Message
+-------
+
+A Message is the contents of a transmission that conveys particular components of information.
+
+Call Sign
+---------
+
+A Callsign is a keyword designed to uniquely identify a radio operator on a Network. Callsigns also provide increased OPSEC in the event that communications are compromised as they mask the identity or capabilities of an element.
+
+.. note::
+  In the 1st RRF we assume that communications are secure at all times and cannot be jeaprodised. This is so that we do not have to deal with cryptographic and frequency rekeys in the event of a radio being lost.
+
+  All radios should still be recovered or destroyed in the gamespace so as to prevent their aquisition by hostile forces - however the 57A team is forbidden from using this to directly listen to or intefere with blufor comms.
+
+Callsigns are assigned in advance by command and will usually follow the unit SOP for radio callsigns found as Appendix A - SOP Call Card.

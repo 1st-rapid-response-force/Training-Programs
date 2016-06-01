@@ -13,3 +13,8 @@ To attend JSRS you must fulfill the following requirements:
 * Achieved the rank of SPC
 
 * **You have read fully the training materials provided**
+
+
+// Appendixes
+  A - Call Card
+  C - Radio Equipment
