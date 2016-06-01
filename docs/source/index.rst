@@ -88,6 +88,13 @@ Training Programs:
     tc3/ingame
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Joint Service Radio School ( JSRS )
+
+    jsrs-wip/intro
+    jsrs-wip/radio_use_overview
+
+.. toctree::
   :maxdepth: 1
   :caption: Instructor Handbooks
 
