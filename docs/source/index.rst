@@ -89,7 +89,7 @@ Training Programs:
 
 .. toctree::
     :maxdepth: 1
-    :caption: Joint Service Radio School ( JSRS )
+    :caption: Joint Service Radio School ( JSRS ) - Not Issued
 
     jsrs-wip/intro
     jsrs-wip/radio_use_overview
