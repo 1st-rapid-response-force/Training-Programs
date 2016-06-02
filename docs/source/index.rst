@@ -95,6 +95,9 @@ Training Programs:
     jsrs-wip/radio_use_overview
     jsrs-wip/basic_principles
     jsrs-wip/basic_transmission
+    jsrs-wip/message_protocols
+    jsrs-wip/reports
+    jsrs-wip/requests
 
 .. toctree::
   :maxdepth: 1
