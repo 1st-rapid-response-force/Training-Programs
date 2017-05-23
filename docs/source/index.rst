@@ -37,6 +37,7 @@ Training Programs:
    :caption: Unit Policies and Structure
 
    v1/about_the_unit/structure
+   v1/about_the_unit/disciplinary_policy
 
 .. toctree::
    :maxdepth: 1
