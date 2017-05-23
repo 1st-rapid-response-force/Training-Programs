@@ -34,6 +34,8 @@ Beneath HHC the unit is divided into combat elements which are on of a platoon s
 
 Each of these combat elements has an Officer In Charge ( typically something between an O1 and a O3 depending on the size and seniority of the formation ) as well as an NCO or Warrant Officer in charge who acts as a second in command. Elements at this level are independently responsible for maintaining their own combat readiness including rostering, promotion, training and discipline. 
 
+The general formations are outlined below with more detailed operational information available in the relevant subsections of the field manual for each element.
+
 An Infantry Platoon
 ---------------------
 
@@ -41,9 +43,18 @@ Infantry Platoons are formed of four squads of nine men and a command element. E
 
 The command element of an infantry platoon is composed of a Platoon Leader (PL), a Platoon Sergeant (PSG), a Radio Operator (RTO), a Forward Air Controller (FAC) and a Platoon Medic (PMed). Whilst not fulfilling their specialist roles the Radio Operator, Forward Air Controller and Medic operate as a Security Detail for the Platoon Leader.
 
-Below the Platoon Command Element are four infantry squads consisting of one squad leader, two fire team leaders and six infantry personnel. Infantry personnel can receive training in a diverse array of specialist abilities and will carry the special equipment required to fulfill their assigned role such as a grenade launcher, Squad Automatic Weapon or medical supplies. Squad leaders are responsible for training the members of their squad from basic training all the way through to NCO training.
+Below the Platoon Command Element are four infantry squads consisting of one squad leader, two fire team leaders and eight infantry personnel. Infantry personnel can receive training in a diverse array of specialist abilities and will carry the special equipment required to fulfill their assigned role such as a grenade launcher, Squad Automatic Weapon or medical supplies. Squad leaders are responsible for training the members of their squad from basic training all the way through to NCO training.
 
 Rotary Aviation
 -----------------
 
-Rotary Aviation squadrons consist of four aircraft of three personnel: A pilot, a copilot and a crewman.
+Rotary Aviation squadrons consist of four aircraft of two personnel: A pilot and a copilot. We do not allocate ground or weapons crew at this time although we may in the future pending interest from players in fulfilling the role.
+
+Aircraft operate in squadrons and report to the Squadron Commanding Officer. Squadron's will also have an Executive Officer who is the 2IC of the squadron and will normally fly in a seperate aircraft to provide a facility for succession of command in the event an aircraft is lost or otherwise unable to continue.
+
+Fixed Wing Aviation
+-------------------
+
+Fixed Wing Aviation is split into squadrons of two aircraft of two personnel: A pilot and a copilot. In the event that the aircraft being used does not seat two pilots ( such as the A10 ) then each pilot will fly their own aircraft to create a squadron of four aircrafts of one personnel.
+
+Fixed wing squadrons use the same reporting structure as their rotary colleagues.
