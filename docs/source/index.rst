@@ -47,6 +47,7 @@ Training Programs:
    :caption: Aviation Manuals
 
    v1/aviation/airframes
+   v1/aviation/atc_communications
 
 .. toctree::
    :maxdepth: 1
