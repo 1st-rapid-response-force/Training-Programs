@@ -34,13 +34,29 @@ Training Programs:
 
 .. toctree::
    :maxdepth: 1
-   :caption: The Unit and its structure
+   :caption: Unit Policies and Structure
 
    v1/about_the_unit/structure
 
 .. toctree::
    :maxdepth: 1
-   :caption: Aviation
+   :caption: Infantry Manuals
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Aviation Manuals
+
+   v1/aviation/airframes
+
+.. toctree::
+   :maxdepth: 1
+   :caption: NCO and Warrant Officer Manuals
+
+   v1/aviation/airframes
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Officer Manuals
 
    v1/aviation/airframes
 
