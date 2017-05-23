@@ -30,6 +30,7 @@ UH-60A/L/M Blackhawk
 
 Crew
   * Pilot
+  * Co-Pilot
   * Gunner
   * Crew Chief
   * Door Gunner
@@ -51,6 +52,7 @@ CH-47D/F Chinook
 
 Crew
   * Pilot
+  * Co-Pilot
   * Gunner
   * Crew Chief
   * Flight Engineer
@@ -72,6 +74,7 @@ HH-60M Blackhawk
 
 Crew
   * Pilot
+  * Co-Pilot
   * Gunner
   * Crew Chief
   * In-Flight Medic
@@ -126,7 +129,7 @@ C130
 
 Crew
   * Pilot
-  * Co-pilot
+  * Co-Pilot
   * Navigator
   * Flight Engineer
   * Loadmaster
