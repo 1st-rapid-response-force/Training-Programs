@@ -1,12 +1,7 @@
 Airframes of the 1st RRF
 =====================================
 
-The infantry is the most important part of the 1st RRF. They fight the battles on the ground and are the primary force used to accomplish command objectives.
-
-The RRF aims to maintain a standing force of 120 infantry personnel, roughly the size of a company in real life.
-
-This training program represents one of the most comprehensive infantry training programs available in any ARMA III unit, which in turn leads us to having some of the highest quality infantry personnel found in the ARMA community. We take great pride in our infantry and by taking AIT 11 series you are taking the first step toward upholding that standard.
-
+The 1st RRF uses several airframes during day to day operations. They range from rotary and fixed wing airframes.
 
 AH-64D Apache
 --------
@@ -35,6 +30,7 @@ UH-60A/L/M Blackhawk
 
 Crew
   * Pilot
+  * Co-Pilot
   * Gunner
   * Crew Chief
   * Door Gunner
@@ -56,6 +52,7 @@ CH-47D/F Chinook
 
 Crew
   * Pilot
+  * Co-Pilot
   * Gunner
   * Crew Chief
   * Flight Engineer
@@ -77,6 +74,7 @@ HH-60M Blackhawk
 
 Crew
   * Pilot
+  * Co-Pilot
   * Gunner
   * Crew Chief
   * In-Flight Medic
@@ -131,7 +129,7 @@ C130
 
 Crew
   * Pilot
-  * Co-pilot
+  * Co-Pilot
   * Navigator
   * Flight Engineer
   * Loadmaster
