@@ -39,6 +39,12 @@ Training Programs:
    v1/about_the_unit/structure
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Aviation
+
+   v1/aviation/airframes
+
+.. toctree::
   :maxdepth: 1
   :caption: Brand Guidelines
 
