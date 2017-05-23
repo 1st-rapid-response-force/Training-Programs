@@ -29,9 +29,14 @@ Training Programs:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction
 
    v1/introduction/welcome
+
+.. toctree::
+   :maxdepth: 1
+   :caption: The Unit and its structure
+
+   v1/about_the_unit/structure
 
 .. toctree::
   :maxdepth: 1
