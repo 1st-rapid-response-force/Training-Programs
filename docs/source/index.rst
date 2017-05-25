@@ -49,6 +49,7 @@ Training Programs:
 
    v1/aviation/airframes
    v1/aviation/atc_communications
+   v1/aviation/jtac_communications
 
 .. toctree::
    :maxdepth: 1
