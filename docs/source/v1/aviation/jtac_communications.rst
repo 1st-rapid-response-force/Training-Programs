@@ -1,10 +1,6 @@
 Communications with Ground Forces
 =====================================
 
-JTAC Roles and Responsibilities
---------
-
-
 Terms
 --------
 **Initial Point - IP**
