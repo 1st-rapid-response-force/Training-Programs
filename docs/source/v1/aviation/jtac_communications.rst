@@ -1,4 +1,4 @@
-Communications with the JTAC
+Communications with Ground Forces
 =====================================
 
 JTAC Roles and Responsibilities
@@ -146,3 +146,52 @@ Vengeance (JTAC) Operating channel 40 – Provide Direct, communication with Eag
     - **Flight Lead**: “SIX, ONE, Go ahead::”
     - **CAS Pilot**: "Back on Station, Minus one GBU-24::OVER::"
     - **Flight Lead**: “SIX, ONE, Copies All, Minus one GBU-24::OUT::”
+
+
+
+MEDEVAC
+--------
+A MEDEVAC is the timely movement and en route care by medical personnel of an injured, wounded, or ill patient from the battlefield to another location or medical facility.
+
+A MEDEVAC is requested by using a modified 5-line request.
+
+Template
+~~~~~~~~
+9-Line Fixed Wing Request
+    1. Grid location of pickup site
+    2. Radio Frequency, call sign
+    3. Number of patients by type
+
+        - A - Urgent
+        - B - Urgent (Surgery)
+        - C - Priority
+        - D - Routine
+        - E - Convenience
+    4. Security of pickup site
+
+        - N – No enemy troops in area
+        - P – Possible enemy troops in the area (approach with caution)
+        - X – Enemy troops in the area (armed escort required).
+    5. Method of marking pick up site
+
+        - A – IR Strobe
+        - B – Smoke Signal
+        - C – None
+
+Radio Communication Simulation
+~~~~~~~~
+
+.. note::
+
+  1st Platoon was hit hard during the initial assault on their objective, two members of their team are combat ineffective and are currently being stablized as a Casualty Collection Point (CCP) and they are requesting a MEDEVAC.
+
+AIRCON
+    - **Archer 6 Romeo**: “AIRCON, this is Archer 6 Romeo, request 5-line MEDEVAC”
+    - **AIRCON**: “Archer Six, this is AIRCON, prepared to copy”
+    - **Archer 6 Romeo**: 
+        - Line 1: 10235 12331
+        - Line 2: frequency 43.5
+        - Line 3: Alpha Two
+        - Line 4: November
+        - Line 5: Bravo
+    - **AIRCON**: “Archer Six, this is AIRCON, solid copy standby for readback.”
