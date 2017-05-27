@@ -37,10 +37,13 @@ Training Programs:
    :caption: Unit Policies and Structure
 
    v1/about_the_unit/structure
+   v1/about_the_unit/rank
 
 .. toctree::
    :maxdepth: 1
    :caption: Infantry Manuals
+
+   v1/infantry/the_role_of_infantry
 
 .. toctree::
    :maxdepth: 1
