@@ -45,6 +45,7 @@ Training Programs:
    :caption: Infantry Manuals
 
    v1/infantry/law_of_war
+   v1/infantry/roe
    v1/infantry/weapons_and_marksmanship
    v1/infantry/basic_medical
 
