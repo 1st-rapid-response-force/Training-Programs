@@ -46,8 +46,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'1st Rapid Response Force - Training Directory'
-copyright = u'2016, S4 Operations and Force Readiness'
+project = u'1st Rapid Response Force - Policies and Field Manuals'
+copyright = u'2017, S4 Operations and Force Readiness'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -271,7 +271,7 @@ texinfo_documents = [
 epub_title = u'1st Rapid Response Force - Training Directory'
 epub_author = u'S4 Operations and Force Readiness'
 epub_publisher = u'S4 Operations and Force Readiness'
-epub_copyright = u'2016, S4 Operations and Force Readiness'
+epub_copyright = u'2017, S4 Operations and Force Readiness'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'1st Rapid Response Force - Training Directory'
