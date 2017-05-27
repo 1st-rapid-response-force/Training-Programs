@@ -62,4 +62,6 @@ Once a person has been confirmed as dead the following steps should be taken:
 
 2. **Retrieve or destroy radios, maps and cryptographic equipment** All KIA personnel must be stripped of all intel that could potentially compromise the operations of the remaining element. Maps can be checked for markings, radios can be used to eavesdrop on communications and encrypted GPS or satellite devices can be used to monitor the location of other friendly troops. Recovering these devices is a top priority for any casualty.
 
-3. **Place the casualty into a body bag** The casualty should be placed into a body bag and handed over to the medics for further processing. At this time the casualty become a logistical issue as opposed to a medical one and platoon leadership will make the necessary arrangements for the extraction of the body. 
+3. **Place the casualty into a body bag** The casualty should be placed into a body bag and handed over to the medics for further processing. At this time the casualty become a logistical issue as opposed to a medical one and platoon leadership will make the necessary arrangements for the extraction of the body.
+
+ 

@@ -46,6 +46,7 @@ Training Programs:
 
    v1/infantry/law_of_war
    v1/infantry/weapons_and_marksmanship
+   v1/infantry/basic_medical
 
 .. toctree::
    :maxdepth: 1
