@@ -38,6 +38,7 @@ Training Programs:
 
    v1/about_the_unit/structure
    v1/about_the_unit/rank
+   v1/about_the_unit/disciplinary_policy
 
 .. toctree::
    :maxdepth: 1
@@ -50,6 +51,8 @@ Training Programs:
    :caption: Aviation Manuals
 
    v1/aviation/airframes
+   v1/aviation/atc_communications
+   v1/aviation/jtac_communications
 
 .. toctree::
    :maxdepth: 1
