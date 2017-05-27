@@ -44,7 +44,8 @@ Training Programs:
    :maxdepth: 1
    :caption: Infantry Manuals
 
-   v1/infantry/the_role_of_infantry
+   v1/infantry/law_of_war
+   v1/infantry/weapons_and_marksmanship
 
 .. toctree::
    :maxdepth: 1
