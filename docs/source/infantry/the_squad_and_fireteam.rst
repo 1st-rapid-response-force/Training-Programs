@@ -49,7 +49,7 @@ From smallest to largest, these structures are:
 
   A Squad is the most common element of movement in the RRF and the smallest assignable element in the unit ( A fireteam cannot be independantly tasked by command ).
 
-  Squads are made up of two fireteams and a squad leader for a total of 9 personnel. The two fire teams in the squad will have different specialists which will in turn determine the capability of that squad.
+  Squads are made up of two fireteams and a squad leader for a total of 11 personnel. The two fire teams in the squad will have different specialists which will in turn determine the capability of that squad.
 
   **The Squad Leader**
 
