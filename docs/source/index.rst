@@ -30,41 +30,41 @@ Training Programs:
 .. toctree::
    :maxdepth: 1
 
-   v1/introduction/welcome
+   introduction/welcome
 
 .. toctree::
    :maxdepth: 1
    :caption: Unit Policies and Structure
 
-   v1/about_the_unit/structure
-   v1/about_the_unit/qualifications
-   v1/about_the_unit/rank
-   v1/about_the_unit/disciplinary_policy
+   about_the_unit/structure
+   about_the_unit/qualifications
+   about_the_unit/rank
+   about_the_unit/disciplinary_policy
 
 .. toctree::
    :maxdepth: 1
    :caption: Infantry Manuals
 
-   v1/infantry/law_of_war
-   v1/infantry/roe
-   v1/infantry/weapons_and_marksmanship
-   v1/infantry/the_squad_and_fireteam
-   v1/infantry/formations
-   v1/infantry/battle_drills
-   v1/infantry/mout
-   v1/infantry/basic_medical
-   v1/infantry/basic_communication
-   v1/infantry/advanced_medical
-   v1/infantry/advanced_communications
-   v1/infantry/arbn
+   infantry/law_of_war
+   infantry/roe
+   infantry/weapons_and_marksmanship
+   infantry/the_squad_and_fireteam
+   infantry/formations
+   infantry/battle_drills
+   infantry/mout
+   infantry/basic_medical
+   infantry/basic_communication
+   infantry/advanced_medical
+   infantry/advanced_communications
+   infantry/arbn
 
 .. toctree::
    :maxdepth: 1
    :caption: Aviation Manuals
 
-   v1/aviation/airframes
-   v1/aviation/atc_communications
-   v1/aviation/jtac_communications
+   aviation/airframes
+   aviation/atc_communications
+   aviation/jtac_communications
 
 .. toctree::
   :maxdepth: 1
