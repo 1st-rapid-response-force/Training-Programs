@@ -10,16 +10,14 @@ Within a Fireteam it is important that personnel are able to communicate clearly
 
 In general the squad network should be kept clear so that Team Leaders can talk to Squad Leaders
 
-Setting up an AN/PRC 152 Radio
+Setting up an AN/PRC 343 Radio
 -------------------------------
 
-Infantry in the RRF are issued with the AN/PRC 152 radio. This is a secure personal radio which can be tuned to a large number of frequencies.
+Infantry in the RRF are issued with the AN/PRC 343 radio. This is a secure, extremely short range squad radio. It is designed for intra squad communications and has a small, weak antenna which can limit its transmission capabilities when inside buildings or behind terrain.
 
-You can hold a primary and alternate channels on the radio, as well as controlling volume and stereo directions, however this information will not be part of this training. This information on radios can be obtained in the Joint Service Radio School.
+The 343 can only be tuned to preset channels and blocks. The OPORD will provide information on the channel and block configuration of the 343 for your element in the operation. 
 
-By default, pressing Control and P will open up your radio interface. Change channel by clicking on the display and typing in the desired frequency.
-
-You will be asked to adjust your radio channels during the AIT practical sessions, so you should make an effort to experiment with the system by using the Virtual Arsenal. You can access this from the main menu under Learn \> Virtual Arsenal.
+The radio can be opened and adjusted through the ACE menu under Radios.
 
 Methods of Communication
 -------------------------
