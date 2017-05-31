@@ -268,7 +268,7 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'1st Rapid Response Force - Training Directory'
+epub_title = u'1st Rapid Response Force - Field Manual'
 epub_author = u'S4 Operations and Force Readiness'
 epub_publisher = u'S4 Operations and Force Readiness'
 epub_copyright = u'2017, S4 Operations and Force Readiness'
