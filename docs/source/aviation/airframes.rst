@@ -4,7 +4,7 @@ Airframes of the 1st RRF
 The 1st RRF uses several airframes during day to day operations. They range from rotary and fixed wing airframes.
 
 AH-64D Apache
---------
+----------------------------
   .. image:: ../../_static/apache.png
       :align: center
 
@@ -23,8 +23,8 @@ Missions
   * Reconnaissance
   * Air to Air Combat
   
-UH-60A/L/M Blackhawk
---------
+UH-60A/L Blackhawk
+----------------------------
   .. image:: ../../_static/blackhawk.png
       :align: center
 
@@ -46,7 +46,7 @@ Missions
   * FRIES. Rappelling
 
 CH-47D/F Chinook
---------
+----------------------------
   .. image:: ../../_static/bigbird.png
       :align: center
 
@@ -67,8 +67,8 @@ Missions
   * Waterborne Operations
   * Mass Casulty Evac
 
-HH-60M Blackhawk
---------
+UH-60M Blackhawk
+----------------------------
   .. image:: ../../_static/medical_blackhawk.png
       :align: center
 
@@ -87,7 +87,7 @@ Missions
   * CASEVAC
 
 AH-6J/MH-6J Little Bird
---------
+----------------------------
   .. image:: ../../_static/littlebird.png
       :align: center
 
@@ -105,7 +105,7 @@ Missions
   * Close Air Support of Special Operation Forces
   
 A-10 Thunderbolt II
---------
+----------------------------
   .. image:: ../../_static/a10.png
       :align: center
 
@@ -123,7 +123,7 @@ Targeting Pod/CCIP
   * Enabled
 
 C130
---------
+----------------------------
   .. image:: ../../_static/c130.png
       :align: center
 

@@ -137,7 +137,11 @@ Waterborne Qualification
 JTAC Qualification
 ~~~~~~~~~~~~~~~~~~~~
 
-**Pending input from Aviation**
+* Understands communication between ground and air assets
+* Understands and can effectively use their radios
+* Can conduct a request for close air support request
+* Has successfully aborted a CAS request
+* Understands the different JTAC control types
 
 RTO / Forward Observer Qualification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -220,6 +224,33 @@ Platoon Leader Qualification
 * Knows the role of the officer corps in the administration of the unit ( Website admin tasks and Server maintenance )
 * Has read the "Officers in the 1st RRF" manual detailing the restrictions and guidelines for officers in the RRF
 * Is able to correctly execute platoon troop leading procedures to produce a battle plan and roster for official operations and trainings
+* Understands how to work with S3 to create OPORDs in support of official deployments
+* Is able to liase with friendly air and ground assets to achieve a cohesive plan of action
+* Understands the process to handle disciplinary action within the platoon including NJPs and Article 15 discharges.
+* Understands the RRF TLP with regards to integrating reserve forces into the infantry platoon to fulfill operation requirements
+
+Airframe Pilot Qualification
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Understands how to use the aviation dashboard
+* Understands and can fillout a RRF Flight plan
+* Understands aviation training regulations and forms
+* Understands how to use communication systems within the aircraft
+* Works effectively coordinate with a Co-Pilot
+* Has logged 30 flight hours on their assigned aircraft
+* Can effectively coordinate and communicate with an Air Traffic Controller
+* Can effectively coordinate and communicate with a JTAC Operator
+* Can check in on AIRCON
+
+
+Squadron Commander Qualification
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Understands how to use the website to manage their squad timeline
+* Understands how to use the website to assign and manage positions of their squad
+* Has read the "Officers in the 1st RRF" manual detailing the restrictions and guidelines for officers in the RRF
+* Knows the role of the officer corps in the administration of the unit ( Website admin tasks and Server maintenance )
+* Is able to correctly execute squadron leading procedures to produce a battle plan and roster for official operations and trainings
 * Understands how to work with S3 to create OPORDs in support of official deployments
 * Is able to liase with friendly air and ground assets to achieve a cohesive plan of action
 * Understands the process to handle disciplinary action within the platoon including NJPs and Article 15 discharges.

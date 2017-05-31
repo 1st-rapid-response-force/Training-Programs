@@ -9,13 +9,19 @@ Standard Frequencies
 --------
 The following frequencies are standard for all 1st RRF aircraft.
 
-+--------------------------+----------------------+-------------------------------------------+
-| GROCON                   | AIRCON               | TRACON                                    |
-+==========================+======================+===========================================+
-| 33 Mhz                   | 35Mhz                | 37Mhz                                     |
-+--------------------------+----------------------+-------------------------------------------+
++--------------------------+----------------------+
+| GROCON                   | AIRCON               |
++==========================+======================+
+| 33 Mhz (Check Radio)     | 35Mhz (Check Radio)  |
++--------------------------+----------------------+
 
-For all uncontrolled airspace use AIRCON frequency.
+
+Channel Usage
+~~~~~~~~~~~~~~~
+
+    - GROCON - Ground Control is the primary ATC channel used to coordinate air traffic on the airbase (Airbase control is 2km radius). It is used for ground movement (taxi, refuel, repair operations) and air movements (move to, vectoring, approach and landing). Aviation should tune to this channel when operating within an airbase and remain unless instructed otherwise.
+    - AIRCON - Air Control is a channel used as a standby channel for airframes when they leave GROCON's area of control. Communications on this channel should be kept at a minimum and should consist of aircraft reporting in, and coordination between JTAC for requests (JTAC would provide requested asset with a radio channel for continued communication).
+
 
 Airframe Start-Up
 --------
@@ -46,8 +52,8 @@ Airframe Taxi
 After push-back, or, if you are parked in a position from which you can taxi you will need to request taxi instructions to get to the runway.
 
 Communication Snippet:
-    - **Aircraft**: “GROCON, this is [Callsign] (PHANTOM ONE), [parked position] (Hotel 2), request take off clearance”
-    - **ATC**: “[Callsign] (PHANTOM ONE), this is GROCON, [Runway] (runway 22), cleared for take-off.”
+    - **Aircraft**: ““GROCON, this is [Call sign] (PHANTOM ONE),[parked position] (Hotel 2), request taxi”
+    - **ATC**:     - **ATC**: “[Call sign] (PHANTOM ONE), this is GROCON, taxi to [holding point] (holding point runway 22), via [taxi route] (Golf and Alpha)”
     - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), taxiing to [holding point] (holding point runway 22), via [taxi route] (Golf and Alpha)”
 
 Airframe Take-off clearance
@@ -57,8 +63,8 @@ Before turning onto an active runway and taking off, request clearance.
 Once you have taken off, switch to AIRCON Frequency.
 
 Communication Snippet:
-    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), [parked position] (Hotel 2), request taxi”
-    - **ATC**: “[Call sign] (PHANTOM ONE), this is GROCON, taxi to [holding point] (holding point runway 22), via [taxi route] (Golf and Alpha)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), request take off clearance”
+    - **ATC**: “[Callsign] (PHANTOM ONE), this is GROCON, [Runway] (runway 22), cleared for take-off.””
     - **Aircraft**: “GROCON, this is [Callsign] (PHANTOM ONE), cleared for take-off [Runway] (runway 22)”
 
 Departure and Climb
@@ -72,34 +78,34 @@ Once you are in the air:
   Note – This has been modified for its original definition for ARMA.  
 
 Communication Snippet:
-    - **Aircraft**: “AIRCON, this is [Callsign] (PHANTOM ONE), [Altitude] (angels eight), climbing to [new altitude] (angels one five)”
-    - **ATC**: “[Call sign] (PHANTOM ONE), this is AIRCON, identified, climb to [new altitude] (angels two zero).”
-    - **Aircraft**: “AIRCON, this is [Call sign] (PHANTOM ONE), climb to [new altitude] (angels two zero).”
+    - **Aircraft**: “GROCON, this is [Callsign] (PHANTOM ONE), [Altitude] (angels eight), climbing to [new altitude] (angels one five)”
+    - **ATC**: “[Call sign] (PHANTOM ONE), this is GROCON, identified, climb to [new altitude] (angels two zero).”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), climb to [new altitude] (angels two zero).”
 
 Proceed Direct To
 --------
 The air traffic controller at times may direct aircraft to a certain waypoint.
 
 Communication Snippet:
-    - **ATC**: “[Call sign] (PHANTOM ONE), this is AIRCON, proceed direct to [Grid] (1032 1231)”
-    - **Aircraft**: “AIRCON, this is [Call sign] (PHANTOM ONE), proceeding direct to [Grid] (1032 1231).”
+    - **ATC**: “[Call sign] (PHANTOM ONE), this is GROCON, proceed direct to [Grid] (1032 1231)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), proceeding direct to [Grid] (1032 1231).”
 
 Headings and Vectors
 --------
 The ATC may direct aircraft to change direction, they will do this by providing a vector.
 
 Communication Snippet:
-    - **ATC**: “[Call sign] (PHANTOM ONE), this is AIRCON, turn [instructions with vector] (right heading 180)”
-    - **Aircraft**: “AIRCON, this is [Call sign] (PHANTOM ONE),turning [instructions with vector] (right heading 180).”
+    - **ATC**: “[Call sign] (PHANTOM ONE), this is GROCON, turn [instructions with vector] (right heading 180)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE),turning [instructions with vector] (right heading 180).”
 
 Descend
 --------
 When returning to a friendly airbase, you will typically want to begin descending slowly, you should do this in conjunction with the ATC instructions.
 
 Communication Snippet:
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), ready to descent (or request descent)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), ready to descent (or request descent)”
     - **ATC**: “[Call sign] (PHANTOM ONE), descent to [altitude] (angels zero five)”
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), descending to [altitude] (angels zero five)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), descending to [altitude] (angels zero five)”
 
 Holdings
 --------
@@ -107,23 +113,23 @@ For ARMA we have simplified holding patterns, all aircraft entering a holding pa
 
 Communication Snippet:
     - **ATC**: “[Call sign] (PHANTOM ONE), enter holding pattern”
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), entering holding pattern”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), entering holding pattern”
 
 Approach
 --------
-When arriving to the airbase, you will want to contact TRACON and requesting instructions on which runway you will be using and approaching.
+When arriving to the airbase, you will want to contact GROCON and requesting instructions on which runway you will be using and approaching.
 
 Communication Snippet:
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), on approach, requesting instructions”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), on approach, requesting instructions”
     - **ATC**: “[Call sign] (PHANTOM ONE), cleared for ILS approach on [runway] (runway 22L)”
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), cleared for ILS approach on runway 22L”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), cleared for ILS approach on runway 22L”
 
 Landing Clearance
 --------
-When arriving to the airbase, you will want to contact TRACON and requesting instructions on which runway you will be using and approaching.
+When arriving to the airbase, you will want to contact GROCON and requesting instructions on which runway you will be using and approaching.
 
 Communication Snippet:
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), on approach to [runway] (runway 22L), requesting landing clearance on [runway] (runway 22L)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), on approach to [runway] (runway 22L), requesting landing clearance on [runway] (runway 22L)”
     - **ATC**: “[Call sign] (PHANTOM ONE), cleared to land on [runway] (runway 22L)”
 
 Go Around
@@ -133,11 +139,11 @@ There are times when the pilot must abort their landing attempt or the ATC instr
 In this case, they will want your aircraft to go around.
 
 Communication Snippet:
-    - **Aircraft - Abort**: “TRACON, this is [Call sign] (PHANTOM ONE), going around”
+    - **Aircraft - Abort**: “GROCON, this is [Call sign] (PHANTOM ONE), going around”
     - **ATC**: “[Call sign] (PHANTOM ONE), follow missed approach as published”
 or 
     - **ATC - Abort**: “[Call sign] (PHANTOM ONE), go around, I say again, go around. [Vector] (Maintain runway heading), climb [altitude] (angels one seven)”
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), going around. [Vector] (Maintain runway heading), climb [altitude] (angels one seven)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), going around. [Vector] (Maintain runway heading), climb [altitude] (angels one seven)”
 
 Standard missed approach process is to join go into holding pattern and request approach and landing instructions from TRACON
 
@@ -146,8 +152,8 @@ Taxi To Gate
 After the aircraft, has landed and they are no longer on the runway. The pilot should request taxi instructions back to parking or gate.
 
 Communication Snippet:
-    - **ATC**: “[Call sign] (PHANTOM ONE), this is TRACON, taxi to [parking location] (hanger 1) via [taxi route] (Alpha Bravo)”
-    - **Aircraft**: “TRACON, this is [Call sign] (PHANTOM ONE), taxiing to [parking location] (hanger 1) via [taxi route] (Alpha Bravo)”
+    - **ATC**: “[Call sign] (PHANTOM ONE), this is GROCON, taxi to [parking location] (hanger 1) via [taxi route] (Alpha Bravo)”
+    - **Aircraft**: “GROCON, this is [Call sign] (PHANTOM ONE), taxiing to [parking location] (hanger 1) via [taxi route] (Alpha Bravo)”
 
 Emergencies
 --------
@@ -161,4 +167,4 @@ Reporting a Downed Aircraft
 If an aircraft that was flying in formation or aircraft has crashed. The following message should be broadcasted to the ATC.
 
 Communication Snippet:
-    - **Aircraft**: “AIRCON, [Call sign] (PHANTOM ONE), fallen angel [downed callsign]( PHANTOM TWO) at [grid] (10321041), [surviors] (survivors visible at this time).
+    - **Aircraft**: “GROCON, [Call sign] (PHANTOM ONE), fallen angel [downed callsign]( PHANTOM TWO) at [grid] (10321041), [surviors] (survivors visible at this time).

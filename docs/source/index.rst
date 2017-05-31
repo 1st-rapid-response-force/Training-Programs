@@ -62,6 +62,7 @@ Training Programs:
    :maxdepth: 1
    :caption: Aviation Manuals
 
+   aviation/training
    aviation/airframes
    aviation/atc_communications
    aviation/jtac_communications
