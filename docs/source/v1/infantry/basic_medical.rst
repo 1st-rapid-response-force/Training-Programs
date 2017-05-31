@@ -1,4 +1,4 @@
-Infantry Medical Training
+Basic Infantry Medical Manual
 ===========================
 
 The ACE medical system used in the 1st RRF is remarkably complex and provides an indepth level of simulation. Infantry are trained on how to keep themselves and their buddies in the fight long enough to receive proper medical attention from the properly trained medical teams. 

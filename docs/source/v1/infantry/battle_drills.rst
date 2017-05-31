@@ -1,4 +1,4 @@
-Introduction to Battle Drills
+Infantry Battle Drills
 ==============================
 
 Battle Drills are practiced responses to a given situation that represent the ideal mechanism for the response.

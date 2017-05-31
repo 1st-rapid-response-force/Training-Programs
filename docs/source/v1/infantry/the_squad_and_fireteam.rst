@@ -13,7 +13,7 @@ From smallest to largest, these structures are:
 
   A Fireteam is the smallest element size in the RRF.
 
-  A fireteam consists of three members and a Team Leader for a total of four personnel.
+  A fireteam consists of four members and a Team Leader for a total of five personnel.
 
   Fire teams act within a squad, meaning that the squad leader will control their macroscopic objectives and positioning. A Team Leader is therefore responsible for controlling the micro level tactics of the fireteam such as exact positioning ( which tree to hide behind ), ensuring formation, leading MOUT breaches and managing ammunition and medical levels.
 

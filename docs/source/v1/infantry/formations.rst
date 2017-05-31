@@ -1,4 +1,4 @@
-Formations and Maneouvers
+Infantry Formations and Maneouvers
 ==========================
 
 Formations and Movement techniques are vitally important parts of operating in the infantry.
