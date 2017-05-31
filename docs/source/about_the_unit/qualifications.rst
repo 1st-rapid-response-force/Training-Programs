@@ -152,6 +152,9 @@ RTO / Forward Observer Qualification
 * Understands the guidelines for employment of Indirect Fire
 * Is able to correctly call for artillery fire and provide adjustments as a forward observer
 * Is proficient in all formalized reports and requests used on radio networks with the exception of CAS calls which fall under the JTAC quals
+* Understands how to call for a MEDEVAC, mark a necessary LZ and coordinate with the Platoon Medics to facilitate the transportation of the casualty
+* Knows how to organize a rotary extract by coordinating with Aviation and marking a suitable LZ.
+* Understand how to use the Kestrel to make a landing site assesment for an airframe
 
 Infantry Medic Qualification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
