@@ -53,7 +53,7 @@ Each rank has an allocated time in service requirement which must be met to beco
 
 Some ranks will require the completion of some qualifications. These will naturally be built up over the course of a member's time in the unit however leadership should constantly evaluate which training programs will offer the best progression opportunities to their element. 
 
-For example a fire team leader may organise an Air Assault training for his team as he knows several of his fireteam members have asperations to join the ODA teams. As he is aware of this intent he would schedule this training to help them reach their goals within the unit.
+For example a fire team leader may organise an Air Assault training for his team as he knows several of his fireteam members have aspirations to join the ODA teams. As he is aware of this intent he would schedule this training to help them reach their goals within the unit.
 
 **Interview when moving corps**
 

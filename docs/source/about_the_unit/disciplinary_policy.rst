@@ -17,9 +17,10 @@ Disciplinary Procedure Event Breakdown
 ~~~~~~~~~~~~~~~~~~~~~~
     1. Member violates a rule or guideline.
     2. Member conduct is reported via an Infraction Report by a fellow member.
-    3. Conduct is investigated by the Unit Commander and member in question is contacted.
-    4. The reporting party will remain anonymous (only known by the Commander) throughout the disciplinary policy.
+    3. Conduct is investigated by the violating member's team leadership and member in question is contacted.
+    4. The reporting party will remain anonymous throughout the disciplinary policy.
     5. Upon a completed investigation, the member will be notified of the repercussions of his/her actions.
+    6. If the violating member wishes to appeal, they may do so and their disciplinary file is escalated to the next level of command.
 
 Member Conduct That Can Result in Disciplinary Action
 --------------------------------------------
@@ -37,39 +38,39 @@ Class 1
 A class 1 offense typically relate to actions or behaviors that are considered disruptive, unprofessional, but are not serious enough to cause unit wide interference.
 
     * Insubordination (non-combat)
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record, demotion of rank
         - 3rd Offense: Bad Conduct Discharge
     * Unprofessional conduct in front of a prospective member
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record, demotion of rank
         - 3rd Offense: Unit Commander discretion.
     * Unprofessional conduct in an official training course
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record, demotion of rank
         - 3rd Offense: Unit Commander discretion.
     * Unprofessional conduct in administrative office
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record, demotion of rank
         - 3rd Offense: Unit Commander discretion.
     * Teamspeak Hot-mic, Communication Spamming
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Restriction of Teamspeak permissions
         - 3rd Offense: Administrative Discharge (Failure to Adapt)
     * Uniform/Equipment Violation on Garrison
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record
         - 3rd Offense: NCS, Demotion of Rank, Unit Commander discretion
     * Uniform/Equipment Violation on Deployment
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record
         - 3rd Offense: NCS, Demotion of Rank, Unit Commander discretion
     * Failure to report in
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record
         - 3rd Offense: NCS, Demotion of Rank, Unit Commander discretion
     * Failure to adhere to Customs and Courtesies 
-        - 1st Offense: VCS – with Unit Commander
+        - 1st Offense: Verbal Counseling Statement
         - 2nd Offense: Negative Counseling Statement will be added to member record
         - 3rd Offense: All subsequent actions will be NCSs
 
