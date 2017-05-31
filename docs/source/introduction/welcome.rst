@@ -4,7 +4,7 @@ An Introduction to the 1st Rapid Response Force
 Foreword by the Unit Commander
 -----------------------------------
 
-The 1st Rapid Response Force is the result of four years of effort, energy and tears being combined into a well trained and disciplined force that can operate at the highest levels of acomplishment. Whilst we strive to obtain the highest levels of professionalism and simulation it is important that we do not lose sight of the reasons why we chose to dedicate our time and effort to a video game: entertainment.
+The 1st Rapid Response Force is the result of four years of effort, energy and tears being combined into a well trained and disciplined force that can operate at the highest levels of accomplishment. Whilst we strive to obtain the highest levels of professionalism and simulation it is important that we do not lose sight of the reasons why we chose to dedicate our time and effort to a video game: entertainment.
 
 It is often said within the ARMA community that MILSIM kills fun however we disagree. We believe that MILSIM when executed correctly provides a satisfaction and sense of pride that far exceeds that of simply blasting through a town. Observing the multiple concurrent actions being undertaken to perform a mission is what I believe to be the pinacle of enjoyment that can be obtained from an online game. At the 1st RRF we strive to always find the right balance between achieving the necessary levels of training and camaraderie to execute these succesful missions whilst also not creating a "second fulltime job" for our members.
 
