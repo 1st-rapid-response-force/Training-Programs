@@ -229,7 +229,7 @@ Platoon Leader Qualification
 * Understands the process to handle disciplinary action within the platoon including NJPs and Article 15 discharges.
 * Understands the RRF TLP with regards to integrating reserve forces into the infantry platoon to fulfill operation requirements
 
-Airframe Pilot Qualification
+Basic Pilot Qualification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Understands how to use the aviation dashboard
@@ -237,10 +237,39 @@ Airframe Pilot Qualification
 * Understands aviation training regulations and forms
 * Understands how to use communication systems within the aircraft
 * Works effectively coordinate with a Co-Pilot
-* Has logged 30 flight hours on their assigned aircraft
 * Can effectively coordinate and communicate with an Air Traffic Controller
 * Can effectively coordinate and communicate with a JTAC Operator
 * Can check in on AIRCON
+* Can refuel, rearm, and repair airframes
+* Understands how to use gauges and instruments
+* Understands the use of countermeasures
+
+Rotary Transport Qualification
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Can land and take off with a rotary aircraft
+* Can stabilize and hover the aircraft manually
+* Can conduct troop transport without incident
+* Can conduct cargo transport without incident
+* Understands the cargo/airlift system
+* Can conduct evasive maneuvers to avoid hazards
+* Is able to fly low/high altitudes
+
+Fixed-Wing Combat Qualification
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Can land and take off with a fixed wing aircraft
+* Is able to maintain cruising altitude
+* Familiar with aircraft weapon systems
+* Familiar with aircraft weapon munitions
+* Can effectively use I-TGT system
+* Can effectively use visual targeting munitions
+* Can effectively use active radar homing munitions
+* Can effectively use IR guided munitions
+* Can effectively use passive radar homing munitions
+* Can effectively use cluster bomb munitions
+* Can effectively use unguided munitions
+* Can evade missile munitions through evasive maneuvers and countermeasures
 
 
 Squadron Commander Qualification
