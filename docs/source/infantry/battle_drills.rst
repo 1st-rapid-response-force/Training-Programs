@@ -41,7 +41,7 @@ The second fire team will follow the same practices of deploying smoke and movin
 
 This drill is a successive bounding manoeuvre, meaning that the teams should end on line with each other and should not retreat past the other team.
 
-Assualt on the Flank
+Assault on the Flank
 ---------------------
 
 The flank assault is a technique for assaulting an element where a strategic location is defended by a force that is unable to gain superiority of fires over the squad.
