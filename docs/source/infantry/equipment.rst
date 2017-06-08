@@ -3,7 +3,7 @@ Weapon and Equipment List
 
 The intent of our equipment and weapons loadout is to allow flexibility for member choices while maintaining a realistic standardization.  The following guidance provides detail on the approved infantry loadouts.  Any variation not included in this guidance is unauthorized unless cleared by the chain of command, who reserve the right to add to and remove from the loadouts on a mission specific basis. 
 
-..danger: Any member with unauthorized weapons or equipment during an official event will be subject to disciplinary action.
+.. danger:: Any member with unauthorized weapons or equipment during an official event will be subject to disciplinary action.
 
 Weapons
 --------
