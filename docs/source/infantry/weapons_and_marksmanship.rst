@@ -24,26 +24,6 @@ Issued Weapons
 
 In the RRF infantry are permitted to modify their rifle to their liking including the visual appearance and spray colour, the type of optic and additional furniture. All infantry must carry at least a AN/PEQ15 laser module but may opt to also carry a flashlight in addition to their PEQ15.
 
-Weapon Systems
-~~~~~~~~~~~~~~~
-
-The current standard issue weapon systems of the 1RRF infantry are the M4, M4A1 and the M16A4 family of weapons.
-
-Depending on the mission requirements command may issue special instructions to issue M4 Block II weapon systems however they are not standard issue and will not typically be available.
-
-Optics
-~~~~~~~
-
-The currently approved weapon optics are:
-
-* The ELCAN Specter
-* The Eotech 552 with or without 3x magnifier
-* The Aimpoint T2 with or without 3x magnifier
-* The Trijicon Acog sight
-* The Vortex Spitfire
-
-.. warning:: The 1st RRF does not permit the use of thermal weapon optics for infantry men. 
-
 Ammunition Management
 ----------------------
 

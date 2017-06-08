@@ -52,6 +52,7 @@ Training Programs:
    infantry/formations
    infantry/battle_drills
    infantry/mout
+   infantry/equipment
    infantry/basic_medical
    infantry/basic_communication
    infantry/advanced_medical
