@@ -25,7 +25,7 @@ Optics are member preference, but no member is authorized use of thermal optics 
 * TRIJICON ACOG
 * VORTEX Spitfire
 
-..note: Designated Marksmen do not have the option of choosing their scope. All Designated Marksmen will use the M85A1 SSDS w/ AN/PVS7 as it is the only marksman sight with night vision compatability.
+.. note: Designated Marksmen do not have the option of choosing their scope. All Designated Marksmen will use the M85A1 SSDS w/ AN/PVS7 as it is the only marksman sight with night vision compatability.
 
 Secondary Weapons
 ~~~~~~~~~~~~~~~~~~
