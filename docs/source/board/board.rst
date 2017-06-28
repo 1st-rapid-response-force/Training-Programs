@@ -50,7 +50,11 @@ Responsibilites of the Board of Operations
 3.	The BoO is responsible for appointing the headquarters leadership of the unit including both the NCO and Officer branches at their sole discretion.
 
     a.	The BoO must ensure that the role of Unit Commander and Unit Command Sergeant Major are filled and that the individuals occupying these slots are fit and qualified for the role.
-    b.	The BoO is responsible for setting the agenda that the Unit Command must follow including the direction and size of the unit.
+    
+        i.  The Unit Commander and Unit Command Sergeant Major roles are appointed assignments for the period of **3 months**. At the end of the appointment the board will convene and select and appoint individuals to these roles.
+        ii. There is no term limits for headquarters leadership, they can be reappointed at the end of their term.
+        
+    c.	The BoO is responsible for setting the agenda that the Unit Command must follow including the direction and size of the unit.
 
         i.	The BoO does not have a role of micromanagement on the individual decisions that the Unit Commander takes and is explicitly forbidden from wielding it’s influence in response to daily operations of the group.
         ii.	The BoO is able to remove a Unit Command with a majority vote in the event that they fail to correctly implement the strategic directives set by the Board.
