@@ -34,6 +34,14 @@ Training Programs:
 
 .. toctree::
    :maxdepth: 1
+   :caption: Articles of Association
+
+   board/intro
+   board/board
+   board/assets
+
+.. toctree::
+   :maxdepth: 1
    :caption: Unit Policies and Structure
 
    about_the_unit/structure
