@@ -51,9 +51,9 @@ Responsibilites of the Board of Operations
 
     a.	The BoO must ensure that the role of Unit Commander and Unit Command Sergeant Major are filled and that the individuals occupying these slots are fit and qualified for the role.
     
-        i.  The Unit Commander and Unit Command Sergeant Major roles are appointed assignments for the period of **3 months**. At the end of the appointment the board will convene and select and appoint individuals to these roles.
+        i.  The Unit Commander and Unit Command Sergeant Major roles are appointed assignments for the period of **3 months**. At the end of each appointment period the position will be vacated by the current occupant and the board will elect or reelect the next commander.
         ii. There is no term limits for headquarters leadership, they can be reappointed at the end of their term.
-        
+
     c.	The BoO is responsible for setting the agenda that the Unit Command must follow including the direction and size of the unit.
 
         i.	The BoO does not have a role of micromanagement on the individual decisions that the Unit Commander takes and is explicitly forbidden from wielding it’s influence in response to daily operations of the group.
