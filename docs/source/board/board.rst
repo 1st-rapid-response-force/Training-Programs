@@ -33,3 +33,24 @@ Membership of the Board of Operations
 3.	Membership applications must be ratified by a majority ( greater than 50% ) vote to accept the member. 
 
     a.	Membership votes are handled anonymously to prevent coercion or repercussions of the decision.
+
+Responsibilites of the Board of Operations
+-------------------------------------------
+1.	The BoO must hold a meeting at least once every two calendar week.
+
+    a.	A meeting of the Board of Operations must include all sitting members of the Board.
+    b.	Any member of the Board who fails to provide and honor availability for a period of four weeks forfeits their seat on the board and is immediately removed from it.
+
+2.	The BoO primary responsibility is the fiscal management of the unit and ensuring that funds are correctly and correctly appropriated including: 
+
+    a.	The provisioning of servers for the group
+    b.	The payment of supporting services used in the groups operations
+    c.	The correct chain of custody for donations
+
+3.	The BoO is responsible for appointing the headquarters leadership of the unit including both the NCO and Officer branches at their sole discretion.
+
+    a.	The BoO must ensure that the role of Unit Commander and Unit Command Sergeant Major are filled and that the individuals occupying these slots are fit and qualified for the role.
+    b.	The BoO is responsible for setting the agenda that the Unit Command must follow including the direction and size of the unit.
+
+        i.	The BoO does not have a role of micromanagement on the individual decisions that the Unit Commander takes and is explicitly forbidden from wielding it’s influence in response to daily operations of the group.
+        ii.	The BoO is able to remove a Unit Command with a majority vote in the event that they fail to correctly implement the strategic directives set by the Board.
